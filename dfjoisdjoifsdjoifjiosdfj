@@ -1,0 +1,90 @@
+[33mcommit 0d3c76d69fba4021461cd4ec42cd8c8421cf96eb[m[33m ([m[1;36mHEAD -> [m[1;32mtest2[m[33m)[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:33:34 2024 +0300
+
+    6.txt added
+
+[33mcommit 95ce3a326beecfaa15a9a24384c978375ea2af4e[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:33:18 2024 +0300
+
+    5.txt added
+
+[33mcommit 3d358f5a019b3b80d1ed42010a897d409aeaf036[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:33:05 2024 +0300
+
+    4.txt added
+
+[33mcommit 4ce6852ccc22c6f4622f567488a967a4b66c8c9f[m[33m ([m[1;32mmain[m[33m)[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:32:33 2024 +0300
+
+    3.txt added
+
+[33mcommit 864c2b7af54221425beb074ba1c99625ea3dbfb2[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:32:19 2024 +0300
+
+    2.txt added
+
+[33mcommit ba43610047db8a407970c904c93b1b8f6016e3a9[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:32:05 2024 +0300
+
+    1.txt added
+
+[33mcommit 7dc08ac7a2efff9a25ae8b9ff9005c538815d7f6[m[33m ([m[1;32mtest1[m[33m)[m
+Merge: e510f4e c48df9e
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:25:46 2024 +0300
+
+    changed error.txt
+
+[33mcommit c48df9e55d105ce916f1c7a98309eceebf9787e4[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:23:58 2024 +0300
+
+    error.txt created
+
+[33mcommit e510f4e3f7263d6f9252c5f41b916ea96bfa98d7[m[33m ([m[1;32mnoProblems[m[33m)[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:20:14 2024 +0300
+
+    error.txt changed
+
+[33mcommit c0c3cfa5f347ec3cf3130996d037dec80e5b6b0e[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:19:01 2024 +0300
+
+    problem added
+
+[33mcommit c9ea7f69db5cd77f6f49d3138445a55e2df5e87d[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:14:31 2024 +0300
+
+    file1 added
+
+[33mcommit e238d6c3c026c15f281f5a1971e37a190dc10c6e[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 13:03:52 2024 +0300
+
+    osibka ispravlena
+
+[33mcommit 59bf062db3ef3ee2978ad953c224519751e23ac0[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 12:54:46 2024 +0300
+
+    commit #2
+
+[33mcommit 6788bf1e6af55fd26af1d905114d13c305b56202[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 12:28:08 2024 +0300
+
+    changed text in index.html
+
+[33mcommit 8e69f4650985dc946fc3431836a1152cedb98bf9[m
+Author: zaneruk <zaneruk@gmail.com>
+Date:   Mon Feb 26 12:27:18 2024 +0300
+
+    my first commit!
